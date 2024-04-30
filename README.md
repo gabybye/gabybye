@@ -4,7 +4,7 @@
 
 <div align="center">   
    <img src="https://github-profile-trophy.vercel.app/?username=gabybye&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabybye&layout=compact&hide_border=true&title_color=FE03BD&text_color=F9F6EE&bg_color=0D1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabybye&layout=compact&hide_border=true&title_color=D5D8DC&text_color=D5D8DC&bg_color=D5D8DC" />
 </div>
 
 ### WHAT I'M STUDYING NOW ;/
